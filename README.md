@@ -164,9 +164,9 @@ It is modeling-ready.
 
 Example:
 
-- Member Maya – Data Cleaning
-- Member Yuxuan – EDA
-- Member Jiahao & Jiarong – Preprocessing & Feature Engineering
+- Maya – Data Cleaning
+- Yuxuan – EDA
+- Jiahao & Jiarong – Preprocessing & Feature Engineering
 
 ---
 
