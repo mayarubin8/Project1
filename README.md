@@ -160,10 +160,6 @@ It is modeling-ready.
 
 # Team Contributions
 
-(Add your team contributions here)
-
-Example:
-
 - Maya – Data Cleaning
 - Yuxuan – EDA
 - Jiahao & Jiarong – Preprocessing & Feature Engineering
